@@ -3,10 +3,10 @@
 # I. Overview
 - This project aims to classify whether a given student's article is relevant to the school or not using PhoBERT, a pre-trained language model for Vietnamese. The project consists of the following components:
 
-**PhoBERT_Classification.ipynb**: This Jupyter Notebook contains Python code for training and evaluating the PhoBERT-based text classification model. You can use it to experiment, fine-tune, and evaluate the model's performance before deployment.
-**server.py**: provide server API to receive data from users (e.g., student articles) and send it to the model for prediction. This server was built using any Flask
-**images**: includes images about model evaluation and prediction
-**Documentation and Usage Guide**: Provide documentation and a usage guide for end users, including how to use the API and endpoints to make new predictions.
+  - **PhoBERT_Classification.ipynb**: This Jupyter Notebook contains Python code for training and evaluating the PhoBERT-based text classification model. You can use it to experiment, fine-tune, and evaluate the model's performance before deployment.
+  - **server.py**: provide server API to receive data from users (e.g., student articles) and send it to the model for prediction. This server was built using any Flask
+  - **images**: includes images about model evaluation and prediction
+  - **Documentation and Usage Guide**: Provide documentation and a usage guide for end users, including how to use the API and endpoints to make new predictions.
 
 # II. Getting Started
 To get started with this project, follow these steps:
