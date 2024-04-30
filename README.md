@@ -22,10 +22,10 @@ git clone https://github.com/HhiepShadow/NCKH_2023.git
 - Provide documentation and usage instructions for end users.
 
 # III. Requirements
-Python >= 3.10
-PyTorch=2.2.0
-Transformers
-Flask (or any other web framework for server API)
+- Python >= 3.10
+- PyTorch=2.2.0
+- Transformers
+- Flask (or any other web framework for server API)
 
 # IV. Usage
 Train and evaluate the model using the provided notebook.
