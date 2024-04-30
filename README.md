@@ -1,4 +1,5 @@
 <h1>PhoBERT Text Classification Project</h1>
+
 # I. Overview
 - This project aims to classify whether a given student's article is relevant to the school or not using PhoBERT, a pre-trained language model for Vietnamese. The project consists of the following components:
 
