@@ -36,5 +36,5 @@ Contributing
 Contributions to this project are welcome. Feel free to open issues or pull requests for any improvements or bug fixes.
 
 # V. License
-This project is licensed under the HHiepShadow License.
+This project is licensed under the MIT License.
 
