@@ -13,7 +13,7 @@ To get started with this project, follow these steps:
 
 - Clone this repository to your local machine:
 ```cmd
-git clone https://github.com/HhiepShadow/NCKH_2023.git
+git clone https://github.com/HhiepShadow/git clone https://github.com/HhiepShadow/NCKH_2023.git.git
 ```
 - Open and run the **PhoBERT_Classification.ipynb** notebook to train and evaluate the model.
 - Prepare new data for next prediction
